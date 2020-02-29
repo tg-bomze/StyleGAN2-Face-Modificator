@@ -1,5 +1,5 @@
 # StyleGAN2-Face-Modificator
-Simple Encoder, Generator and Face Modificator with StyleGAN2. Based on encoder [stylegan2encoder](https://github.com/rolux/stylegan2encoder) and a set of latent vectors [generators-with-stylegan2](https://github.com/a312863063/generators-with-stylegan2)
+Simple Encoder, Generator and Face Modificator with StyleGAN2, based on encoder [stylegan2encoder](https://github.com/rolux/stylegan2encoder) and a set of latent vectors [generators-with-stylegan2](https://github.com/a312863063/generators-with-stylegan2)
 
 ![Mona](mona.png)
 
