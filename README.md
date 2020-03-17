@@ -20,3 +20,16 @@ Types of faces generated:
 **Result Example:**
 
 [![YouTube](https://raw.githubusercontent.com/tg-bomze/ENTAR/master/youtube.png)](https://www.youtube.com/watch?v=VS2ql_TjggQ)
+
+## Citation
+
+```
+@article{Karras2019stylegan2,
+  title          = {Analyzing and Improving the Image Quality of {StyleGAN}},
+  author         = {Tero Karras and Samuli Laine and Miika Aittala and Janne Hellsten and Jaakko Lehtinen and Timo Aila},
+  Colab creator  = {Denis Malimonov},
+  journal        = {CoRR},
+  volume         = {abs/1912.04958},
+  year           = {2019},
+}
+```
